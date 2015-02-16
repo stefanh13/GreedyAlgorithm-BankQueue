@@ -11,5 +11,4 @@ There is a problem, though. Some people don’t have the time to wait until the 
 to be served before a certain time, after which they just leave. 
 Oliver also turned off the infrared door sensor outside the bank, so that no more people can enter, because it’s already too crowded in the hall.
 
-Task
-Help Oliver calculate how much cash he can get from the people currently standing in the queue before the bank closes by serving at most one person per minute.
+Task - Help Oliver calculate how much cash he can get from the people currently standing in the queue before the bank closes by serving at most one person per minute.
